@@ -25,5 +25,4 @@
 *Comments and feedback welcome!*
 
 # Where am I deployed?
-[
-https://deploy-this-repo-tjanjua04-oefxkysrb-tjanjua04s-projects.vercel.app](url)
+https://deploy-this-repo-tjanjua04-oefxkysrb-tjanjua04s-projects.vercel.app
